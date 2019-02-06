@@ -1,9 +1,12 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MusicPlayer.cs">
+﻿<Properties StartupConfiguration="{EA6971A9-7635-BBF1-F553-C2ACCA2AB536}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
       <File FileName="Assets/Scripts/MusicPlayer.cs" Line="2" Column="34" />
+      <File FileName="Assets/Standard Assets/Utility/WaypointCircuit.cs" Line="241" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
